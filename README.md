@@ -1,10 +1,6 @@
-# COGS118A Project template
-This is your group repo for your final project for COGS118A
+# Prediction of NBA Injuries from Performance Stats
+This is Group 14's final project for COGS118A for the 2023 Winter Quarter.
 
-This repository is publicly visible! We will be using that feature to do peer review of projects.
+FinalProjectGroup014-Wi23 contains our final results and report, but for data cleaning, please see DataCleaningEDA118A. To get a closer look at each of the models we built, take a look at the corresponding notebooks for that. All of our data is available in this repo, both cleaned and uncleaned, as well. 
 
-Template notebooks for each component are provided. Only work on the notebook prior to its due date. After each submission is due, move onto the next notebook (For example, after the proposal is due, start working in the Data Checkpoint notebook).
 
-This is your repo. You are free to manage the repo as you see fit, edit this README, add data files, add scripts, etc. So long as there are the four files above on due dates with the required information, the rest is up to you all.
-
-Also, you are free and encouraged to share this project after the course and to add it to your portfolio. Just be sure to fork it to your GitHub at the end of the quarter!
